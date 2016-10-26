@@ -36,9 +36,9 @@ Zákazník požaduje vytvorenie systému elektronických objednávok. Dôraz sa 
 ## Úloha
 Na tejto úlohe už pracoval iný tím neskúsených vývojárov. Vašou úlohou je prevziať existujúci kód a podklady, urobiť analýzu, navrhnúť riešenie a implementovať zmeny.  Riešenie potom odprezentovať zákazníkovi. Pri prezentácii máte k dispozícii projektor a whiteboard.
 ## Podklady
-UML diagram čo ste dostali od predchádzajúcich riešiteľov
-[https://github.com/psmInterview/eOrder/blob/master/material/order_model_uncomplete.jpg]
-Zdrojový kód v Java 8
+UML diagram čo ste dostali od predchádzajúcich riešiteľov  
+![Class Diagram](https://github.com/psmInterview/eOrder/blob/master/material/order_model_uncomplete.jpg)  
+Zdrojový kód v Java 8  
 Kód nájdete na: https://github.com/psmInterview/eOrder
 ## Návod na riešenie :smile:
 
