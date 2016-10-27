@@ -5,7 +5,7 @@ Pre potreby objednávania tovarov, alebo služieb bližšie neurčená organizá
 
 1.	Užívateľ systému vytvorí novú objednávka na ktorú je možné pridávať jednotlivé položky
 2.	Pri pridaní položky je možné zadať počet kusov
-3.	Položky je možné s otvorenej objednávky aj odoberať alebo modifikovať. Ak sa objednávka uzatvorí, už nie je možná jej modifikácia
+3.	Položky je možné z otvorenej objednávky aj odoberať alebo modifikovať. Ak sa objednávka uzatvorí, už nie je možná jej modifikácia
 4.	Po uzatvorení objednávky je nutné ju zaplatiť 
 5.	Zaplatením za objednávku sa končí proces objednania
 
